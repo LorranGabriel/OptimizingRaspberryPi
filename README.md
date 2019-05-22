@@ -28,7 +28,8 @@ Open a terminal window and enter:<br>
 >sudo apt purge libreoffice*<br>
 >sudo apt clean<br>
 >sudo apt autoremove<br>
-It isn’t just LibreOffice that takes up space on your Pi. Wolfram takes up around 830MB. You can remove that with the same command, substituting libreoffice* with wolfram-engine.<br>
+<br>
+It isn’t just LibreOffice that takes up space on your Pi. Wolfram takes up around 830MB. You can remove that with the same command, substituting libreoffice* with wolfram-engine.
 
 Furthermore, you could ditch minecraft-pi, and even sonic-pi, to make more space on your microSD card. The same is true of any software you don’t need.<br>
 
